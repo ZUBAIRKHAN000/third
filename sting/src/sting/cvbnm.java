@@ -5,7 +5,7 @@ public class cvbnm {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String s="hello";
-		String z;
+		
 		s=s.replace("l","z");
 	 System.out.println(s);
 	 String[] straaray= {"hey", "hello", "how are you"};
